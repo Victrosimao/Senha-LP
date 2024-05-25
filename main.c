@@ -1,5 +1,4 @@
 //  Victor Simão de Matos   RA:2760482221023
-//  Iago Campanhol de Lima  RA:2760482221036
 
 /*
 *Objetivo:
